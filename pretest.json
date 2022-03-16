@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "2s complement of 11011000",
+      "answers": {
+        "a": "00101000",
+        "b": "01101000",
+        "c": "11001000",
+        "d": "10101010"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Binary number representation by decimal number 37",
+      "answers": {
+        "a": "101010",
+        "b": "111000",
+        "c": "100101",
+        "d": "101101"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Decimal number representation by the binary number 1111 1111",
+      "answers": {
+        "a": "247",
+        "b": "249",
+        "c": "251",
+        "d": "255"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ones complement of 10100111",
+      "answers": {
+        "a": "01100110",
+        "b": "01011000",
+        "c": "11100111",
+        "d": "11100101"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
